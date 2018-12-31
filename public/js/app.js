@@ -64347,8 +64347,8 @@ var Header = function Header() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Applications/MAMP/htdocs/cruddy/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Applications/MAMP/htdocs/cruddy/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Applications/MAMP/htdocs/bare-min-boilerplate-react-laravel/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Applications/MAMP/htdocs/bare-min-boilerplate-react-laravel/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
