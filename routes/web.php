@@ -10,4 +10,5 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::view('/{path?}', 'app');
+//Route::view('/{path?}', 'app');
+Route::get('/{path}?', 'ReactController@show');
